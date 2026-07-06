@@ -1,0 +1,1 @@
+FROM Redhat/ubi9
